@@ -6,4 +6,4 @@
 
 The application allows the user to create short names for URLs. Afterwards, the short name can be set as the application's route parameter, thus, the application redirects the client to the correspondent URL.
 
-This simple project intended to fix two basic concepts of backend software development, which are read and create.
+This simple project intended to fix two basic concepts of backend software development, which are **read** and **create**.
